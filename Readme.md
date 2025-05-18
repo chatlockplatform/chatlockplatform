@@ -6,11 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChatLock" target="_blank">
-    <img alt="GitHub org" src="https://img.shields.io/badge/GitHub-ChatLock-181717?logo=github&logoColor=white" />
-  </a>
   <a href="mailto:team@chatlock.app">
-    <img alt="Email" src="https://img.shields.io/badge/Email-team@chatlock.app-D14836?logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-servicechatlock.com-D14836?logo=gmail&logoColor=white" />
   </a>
   <img alt="Status" src="https://img.shields.io/badge/Status-In%20Development-yellow" />
 </p>
