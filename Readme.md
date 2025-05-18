@@ -1,89 +1,87 @@
-<!-- GitHub Profile README for ChatLock -->
+<!-- ChatLock GitHub Profile README -->
 
-<h1 align="center">🚀 ChatLock – Reimagining Social Media</h1>
+<h1 align="center" style="font-weight: 800;">🚀 ChatLock</h1>
+<p align="center" style="font-size: 18px; color: #555;">
+  Reimagining Social Media with Privacy, AI, and User Empowerment
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Status Badge" />
-  <img src="https://img.shields.io/badge/Platform-Web%20App-blue" />
-  <img src="https://img.shields.io/badge/Built%20With-React%20%7C%20Node%20%7C%20MongoDB%20%7C%20AI-green" />
+  <a href="https://github.com/ChatLock" target="_blank">
+    <img alt="GitHub org" src="https://img.shields.io/badge/GitHub-ChatLock-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:team@chatlock.app">
+    <img alt="Email" src="https://img.shields.io/badge/Email-team@chatlock.app-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <img alt="Status" src="https://img.shields.io/badge/Status-In%20Development-yellow" />
 </p>
 
 ---
 
-<p align="center">
-  <strong>Social media meets privacy, personalization, and AI.</strong><br/>
-  <em>Where every post is yours to control. Say hello to smarter sharing.</em>
-</p>
+## About ChatLock
+
+ChatLock is an innovative social media platform designed to merge the best features of Instagram, Facebook, and Telegram into a single, privacy-first experience. Our mission is to empower users with **complete control over their content**, foster **authentic engagement**, and leverage **AI-powered insights** to enrich online interactions.
 
 ---
 
-## 🌐 About ChatLock
+## Core Features
 
-ChatLock is a next-gen **social media platform** that combines the best of **Instagram**, **Facebook**, and **Telegram** – but with an intelligent twist. It prioritizes **user privacy**, **creative expression**, and **meaningful engagement**, all built with cutting-edge web tech and AI.
-
-> 🔒 Built for Control. Powered by Innovation.
-
----
-
-## 🌟 Core Features
-
-### 🔐 LockModes – Post Control Redefined  
-Fine-tune post visibility: close friends, mutuals, auto-locks, and unlockable requests. Perfect for creators and privacy-focused users.
+### 🔐 LockModes — Advanced Content Control  
+Enable users to precisely manage who views their posts with options like *Close Friends*, *Mutuals*, or *Timed Auto-Lock*. Unlock requests allow selective content monetization without third-party platforms.
 
 ### 🧠 AI-Powered Vibe Filter  
-AI analyzes emotional tone (happy, sad, angry, sarcastic) and gives suggestions for mood, hashtags, and emojis – reducing misunderstandings online.
+Before posting, an intelligent AI analyzes emotional tone — happy, sad, sarcastic, angry — and provides recommendations for mood adjustments, hashtags, and emojis, minimizing misinterpretations.
 
-### 💬 VaultChat  
-Disappearing, end-to-end encrypted messages with hidden codes in images – a secure and secretive messaging experience.
+### 💬 VaultChat — Secure, Disappearing Messaging  
+End-to-end encrypted chats that self-destruct after reading. Embed secret codes within images for confidential communication — perfect for privacy-conscious users and activists.
 
 ### 🎭 Persona Profiles  
-Manage up to three distinct profiles – Personal, Work, and Artistic – each with its own audience and privacy settings.
+Users manage up to three personas — Personal, Professional, and Artistic — each with independent audiences, styles, and privacy settings, enabling seamless role-based social networking.
 
 ### 📊 Clarity Metrics  
-Forget likes – track real engagement (comments, saves, shares) and receive weekly visual reports via your personalized **Impact Score**.
+Move beyond vanity metrics with an Impact Score that reflects meaningful engagement — comments, saves, and interactions — delivered as insightful weekly reports.
 
 ### 🧘 SafeZone Mode  
-Filters toxic content, limits stressful notifications, applies calming UI themes, and recommends mindful creators for a peaceful browsing experience.
+Activate content filters to reduce exposure to toxic or stressful material, limit notifications, and apply calming themes. SafeZone encourages mindful and positive social media experiences.
 
 ### 💡 Decentralized Identity Control  
-Own your data completely with Web3-enabled identity control. Export or delete your digital footprint with one click.
+With Web3 integration, users retain full ownership of their data on decentralized networks. Easily export or permanently delete all personal information with a single click.
 
 ---
 
-## 🧠 Tech Stack
+## Technology Stack
 
-| Category     | Technology                          |
-|--------------|--------------------------------------|
-| Frontend     | React.js, TailwindCSS               |
-| Backend      | Node.js, Express.js                 |
-| Database     | MongoDB / PostgreSQL                |
-| Realtime Chat| WebSockets, AES Encryption          |
-| AI Layer     | OpenAI API / HuggingFace NLP Models |
-| Web3 Support | Ethers.js, IPFS                     |
-| Deployment   | Vercel / Netlify / Railway          |
-
----
-
-## 👨‍💻 In Development
-
-This project is under active development by a passionate and diverse team. Stay tuned for beta access and live launch!
-
-Want to collaborate, partner, or invest? Let’s connect.
+| Layer          | Technologies                               |
+| -------------- | ------------------------------------------ |
+| Frontend       | React.js, Tailwind CSS                     |
+| Backend        | Node.js, Express.js                        |
+| Database       | MongoDB / PostgreSQL                       |
+| Real-time Chat | WebSockets, AES Encryption                 |
+| AI Integration | OpenAI API / HuggingFace NLP Models        |
+| Decentralized  | Ethers.js, IPFS                            |
+| Deployment     | Vercel, Netlify, Railway                   |
 
 ---
 
-## 📬 Contact Us
+## Development Status & Roadmap
 
-📧 Email: [team@chatlock.app](mailto:team@chatlock.app)  
-🌐 Website: _Coming Soon_  
-🐙 GitHub: [github.com/ChatLock](https://github.com/ChatLock)
+- **Planning & Architecture:** Completed  
+- **Core Development:** In Progress  
+- **Alpha Testing:** Upcoming Q3 2025  
+- **Public Beta:** Q4 2025  
+- **Official Launch:** Q1 2026  
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/svg/dev.svg" width="80%" alt="Developer Image"/>
-</p>
+## Contact & Collaboration
 
-<p align="center">
-  <b>ChatLock – Made with ❤️ for a safer, smarter social world.</b>
+For inquiries about partnerships, collaborations, or investment opportunities, please reach out:
+
+📧 [servicechatlock.com]
+🌐 Website: Coming Soon  
+🐙 GitHub: [github.com/ChatLock--document -- access only admin](https://chatlock-documentation.onrender.com/)
+
+---
+
+<p align="center" style="margin-top: 3rem;">
+  <em>© 2025 ChatLock. Crafted with dedication and innovation.</em>
 </p>
