@@ -9,7 +9,6 @@
   <a href="mailto:team@chatlock.app">
     <img alt="Email" src="https://img.shields.io/badge/Email-servicechatlock.com-D14836?logo=gmail&logoColor=white" />
   </a>
-  <img alt="Status" src="https://img.shields.io/badge/Status-In%20Development-yellow" />
 </p>
 
 ---
